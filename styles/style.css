@@ -5,14 +5,14 @@
   
   :root {
     --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/lua.png");
-    --star-wars: url("../img/luke-skywalker.png"); 
+    --star-wars: url("../img/light.com.png"); 
   }
   
   .dark-mode {
     --bg-cor: black;
     --fonte-cor: #ffffff;
     --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/sol.png");
-    --star-wars: url("../img/darth-vader.png");
+    --star-wars: url("../img/dark.com.png");
   }
   
   body {
