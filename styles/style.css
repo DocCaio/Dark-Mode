@@ -52,9 +52,8 @@
     background-image: var(--star-wars);
     background-size: cover;
     width: 450px;
-    height: 350px;
-    margin-bottom: 30px;
+    height: 350px;    
     position:relative;
-    top: 10%;
-    right: 8%;
+    background-position: top;
+    
   }
