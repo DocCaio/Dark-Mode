@@ -1,6 +1,13 @@
 # Dark-Mode
 ## Star Wars Dark vs Light
 
+### Prints 🪐🛸
+
+#### When you click on the yoda button, it changes to the next page and to go back just click on Darth Vader .
+
+<img  alt="Luke" height="400" wight="400"  src="img/Lukelight.png"/>
+<img  alt="Darth" height="400" wight="400"  src="img/Evildark.png"/>
+
 ### Technologies used used ✅
 
 <div align-items="center">
